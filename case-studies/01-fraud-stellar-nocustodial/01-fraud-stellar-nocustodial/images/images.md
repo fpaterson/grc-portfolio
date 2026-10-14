@@ -1,4 +1,5 @@
-These are the relevant images for this case:
+## Supporting Images, Case 01
+The following screenshots illustrate the tools and data sources used during this investigation. All sensitive information has been anonymized or redacted.
 
 ![image alt](https://github.com/fpaterson/grc-portfolio/blob/feeeb6d804c10043f1a319fffed393c648677589/case-studies/01-fraude-stellar-nocustodial/01-fraude-stellar-nocustodial/images/Retool.png)
 
