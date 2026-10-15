@@ -2,8 +2,6 @@
 
 ## About Me
 
-## About Me
-
 I'm a FinTech Operations professional transitioning into Cybersecurity, Governance, Risk, and Compliance (GRC). My background combines financial technology operations, process improvement, and customer operations with formal training in political science and cyber defense.
 
 I hold a degree in Political Science from the University of Buenos Aires (UBA), where I focused on governance, regulation, and public policy. I'm currently pursuing a degree in Cyber Defense at the National University of Defense (UNDEF), deepening my understanding of security, risk, and resilience in critical systems.
