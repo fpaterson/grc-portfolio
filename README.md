@@ -50,7 +50,7 @@ This portfolio converts real operational experience into structured GRC case stu
 | # | Case | GRC Domains |
 |---|---|---|
 | 01 | [Fraud Coordination in a Non-Custodial Environment](case-studies/01-fraud-stellar-nocustodial) | Third-party risk, incident response, residual risk |
-| 02 | [Payer–Account Holder Mismatch and KYB Refusal](case-studies/02-kyb-kyb-mismatch) | KYB, customer due diligence, FATF, KRIs |
+| 02 | [Payer–Account Holder Mismatch and KYB Refusal](case-studies/02-kyc-kyb-mismatch) | KYB, customer due diligence, FATF, KRIs |
 | 03 | [Account Takeover Mitigation via Recovery Email Validation](case-studies/03-ato-recovery-email-validation) | Access control, ATO prevention, UX vs. security |
 | 04 | [Stuck KYC Verifications and Escalation to Third Parties](case-studies/04-kyc-delays-third-party-escalation) | Third-party dependency, data handling, process reliability |
 
