@@ -1,0 +1,64 @@
+Controls and Compliance Checklist
+
+Botium Toys: Internal IT Audit
+
+This checklist was completed using the scope, goals, and risk assessment report, along with the control categories document.
+
+Legend: ✅ = selected, ⬜ = not selected
+
+Controls assessment checklist
+
+Does Botium Toys currently have this control in place?
+
+Yes	No	Control
+⬜	✅	Least Privilege
+⬜	✅	Disaster recovery plans
+⬜	✅	Password policies
+⬜	✅	Separation of duties
+✅	⬜	Firewall
+⬜	✅	Intrusion detection system (IDS)
+⬜	✅	Backups
+✅	⬜	Antivirus software
+✅	⬜	Manual monitoring, maintenance, and intervention for legacy systems
+⬜	✅	Encryption
+⬜	✅	Password management system
+✅	⬜	Locks (offices, storefront, warehouse)
+✅	⬜	Closed-circuit television (CCTV) surveillance
+✅	⬜	Fire detection/prevention (fire alarm, sprinkler system, etc.)
+Compliance checklist
+
+Does Botium Toys currently adhere to this compliance best practice?
+
+Payment Card Industry Data Security Standard (PCI DSS)
+Yes	No	Best practice
+⬜	✅	Only authorized users have access to customers' credit card information.
+⬜	✅	Credit card information is stored, accepted, processed, and transmitted internally, in a secure environment.
+⬜	✅	Implement data encryption procedures to better secure credit card transaction touchpoints and data.
+⬜	✅	Adopt secure password management policies.
+General Data Protection Regulation (GDPR)
+Yes	No	Best practice
+⬜	✅	E.U. customers' data is kept private/secured.
+✅	⬜	There is a plan in place to notify E.U. customers within 72 hours if their data is compromised/there is a breach.
+⬜	✅	Ensure data is properly classified and inventoried.
+✅	⬜	Enforce privacy policies, procedures, and processes to properly document and maintain data.
+System and Organization Controls (SOC type 1, SOC type 2)
+Yes	No	Best practice
+⬜	✅	User access policies are established.
+⬜	✅	Sensitive data (PII/SPII) is confidential/private.
+✅	⬜	Data integrity ensures the data is consistent, complete, accurate, and has been validated.
+⬜	✅	Data is available to individuals authorized to access it.
+Recommendations
+
+There are several issues of varying priority.
+
+High-priority issues that should be addressed as soon as possible include:
+
+- Classifying and creating an inventory of all assets.
+- Implementing separation of duties and the principle of least privilege, ensuring that employees only have access to the customer data necessary for their roles.
+- Encrypting credit card data to protect sensitive information.
+- Establishing data backup and disaster recovery plans to ensure business continuity and enable recovery in the event of data loss or a disaster.
+
+Medium-priority issues include:
+
+- Strengthening the password policy by establishing appropriate password requirements and enforcing compliance.
+- Implementing an intrusion detection system (IDS) to detect suspicious activities and potential security breaches.
