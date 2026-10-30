@@ -58,6 +58,7 @@ This portfolio covers the critical GRC and operational risk areas of a non-custo
 | 06 | [Stuck KYC Verifications and Escalation to Third Parties](case-studies/06-kyc-delays-third-party-escalation) | Third-party dependency, data handling, process reliability |
 | 07 | [Misdirected Transfer Complaint and Root Cause Analysis](case-studies/07-misdirected-transfer-rca) | Incident triage, root cause analysis, UX control gaps |
 | 08 | [Sanctions Geoblocking and Registration Error Handling](case-studies/08-sanctions-geoblocking-error-handling) | Sanctions compliance, third-party risk, error handling |
+| 09 | [Cross-Chain Unsupported Network Handling](case-studies/09-cross-chain-unsupported-network) | Transaction routing, user error prevention, UX controls |
 
 > **Note:** All case studies contain no real customer data, volumes, dates, or partner names. Details have been generalized for portfolio purposes.
 
