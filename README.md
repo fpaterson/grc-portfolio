@@ -9,7 +9,7 @@ I translate operational experience in non-custodial FinTech into structured GRC 
 My background combines three complementary angles:
 
 - **Governance and public policy** — Degree in Political Science (University of Buenos Aires) and postgraduate studies in Public Policy, plus executive education at the Harvard Kennedy School. This provides a solid foundation in regulation, institutional design, and how policy becomes operational practice.
-- **Security and cyber defense** — Currently pursuing a degree in Cyber Defense at the National University of Defense (UNDEF). Expected intermediate degree: *Analista Universitario en Ciberdefensa* (mid-2027).
+- **Security and cyber defense** — Currently pursuing a degree in Cyber Defense at the National University of Defense (UNDEF). Expected intermediate degree: *University Analyst in Cyber Risk Management* (mid or late 2027).
 - **FinTech operations** — 3.5 years managing operations, customer support, fraud coordination, KYC/KYB escalations, and third-party relationships in a non-custodial Stellar environment.
 
 I work in English at a professional level and can operate across international teams and regulatory contexts.
