@@ -38,6 +38,7 @@ This portfolio covers the critical GRC and operational risk areas of a non-custo
 * **06 | KYC Operations:** Managing third-party dependencies and process reliability in stuck KYC verifications.
 * **07 | Incident Investigation:** Root cause analysis of a misdirected transfer, testing control effectiveness, and incident triage.
 * **08 | Sanctions & Geoblocking:** Handling international sanctions enforcement by third-party providers, error triage, and UX compliance messaging.
+* **09 | Cross-Chain Operations:** Managing unsupported network routing and preventing user error in cross-chain transfers.
 
 ## Frameworks & Standards Referenced
 
