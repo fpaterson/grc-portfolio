@@ -74,7 +74,7 @@ Portfolio activities completed during the certificate program.
 * Analyze network traffic from a tcpdump log (DNS/ICMP incident report). Course 3: "Connect and Protect: Networks and Network Security" Module 2: Network operations
 * Analyze a SYN flood attack (incident report). Course 3: "Connect and Protect: Networks and Network Security" Module 3: Secure against network intrusions
 * Recommend security hardening after a brute force attack (incident report). Course 3: "Connect and Protect: Networks and Network Security" Module 4: Security hardening
-
+* Analyze network hardening (security risk assessment report). Course 3: "Connect and Protect: Networks and Network Security" Module 4: Security hardening
 
 ## Areas of Interest
 
