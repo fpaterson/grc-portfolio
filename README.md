@@ -66,8 +66,15 @@ This portfolio covers the critical GRC and operational risk areas of a non-custo
 ## Google Cybersecurity Certificate
 
 Portfolio activities completed during the certificate program.
+# Google Cybersecurity Certificate
 
-- *Conduct a security audit*. Course 2: "Play It Safe: Manage Security Risks" Module 2: Security frameworks and controls
+Portfolio activities completed during the certificate program.
+
+* [Conduct a security audit](01-security-audit-botium-toys). Course 2: "Play It Safe: Manage Security Risks" Module 2: Security frameworks and controls
+* [Analyze network traffic from a tcpdump log (DNS/ICMP incident report)](02-dns-icmp-traffic-analysis). Course 3: "Connect and Protect: Networks and Network Security" Module 2: Network operations
+* [Analyze a SYN flood attack (incident report)](03-syn-flood-incident-report). Course 3: "Connect and Protect: Networks and Network Security" Module 3: Secure against network intrusions
+* [Recommend security hardening after a brute force attack (incident report)](04-brute-force-incident-report). Course 3: "Connect and Protect: Networks and Network Security" Module 4: Security hardening
+
 
 ## Areas of Interest
 
