@@ -1,1 +1,1 @@
-* [Use the NIST Cybersecurity Framework to respond to a security incident (incident report analysis)](06-nist-csf-incident-report-analysis). Course 3: "Connect and Protect: Networks and Network Security" Module 4: Security hardening
+Use the NIST Cybersecurity Framework to respond to a security incident (incident report analysis)(06-nist-csf-incident-report-analysis). Course 3: "Connect and Protect: Networks and Network Security" Module 4: Security hardening
