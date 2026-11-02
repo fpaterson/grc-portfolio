@@ -75,6 +75,7 @@ Portfolio activities completed during the certificate program.
 * Analyze a SYN flood attack (incident report). Course 3: "Connect and Protect: Networks and Network Security" Module 3: Secure against network intrusions
 * Recommend security hardening after a brute force attack (incident report). Course 3: "Connect and Protect: Networks and Network Security" Module 4: Security hardening
 * Analyze network hardening (security risk assessment report). Course 3: "Connect and Protect: Networks and Network Security" Module 4: Security hardening
+* Use the NIST Cybersecurity Framework to respond to a security incident (incident report analysis). Course 3: "Connect and Protect: Networks and Network Security" Module 4: Security hardening
 
 ## Areas of Interest
 
