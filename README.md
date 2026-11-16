@@ -63,9 +63,6 @@ This portfolio covers the critical GRC and operational risk areas of a non-custo
 
 > **Note:** All case studies contain no real customer data, volumes, dates, or partner names. Details have been generalized for portfolio purposes.
 
-## Google Cybersecurity Certificate
-
-Portfolio activities completed during the certificate program.
 # Google Cybersecurity Certificate
 
 Portfolio activities completed during the certificate program.
@@ -76,6 +73,8 @@ Portfolio activities completed during the certificate program.
 * Recommend security hardening after a brute force attack (incident report). Course 3: "Connect and Protect: Networks and Network Security" Module 4: Security hardening
 * Analyze network hardening (security risk assessment report). Course 3: "Connect and Protect: Networks and Network Security" Module 4: Security hardening
 * Use the NIST Cybersecurity Framework to respond to a security incident (incident report analysis). Course 3: "Connect and Protect: Networks and Network Security" Module 4: Security hardening
+* Examine and manage file permissions in Linux (least privilege). Course 4: "Tools of the Trade: Linux and SQL" Module 3: Linux commands in the Bash shell
+* Apply filters to SQL queries to investigate login attempts and employee machines. Course 4: "Tools of the Trade: Linux and SQL" Module 4: Databases and SQL
 
 ## Areas of Interest
 
